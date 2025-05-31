@@ -1,1 +1,1 @@
-# Machine-Learning-6-Real-World-Applications
+# Multi-Domain-ML-Projects
